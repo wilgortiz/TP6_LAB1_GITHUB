@@ -1,7 +1,6 @@
-
 import javax.swing.JOptionPane;
 
-public class Main {
+public class tp6 {
 
     public static void main(String[] args) {
         
