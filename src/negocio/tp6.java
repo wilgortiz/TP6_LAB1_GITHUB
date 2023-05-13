@@ -1,4 +1,6 @@
 import javax.swing.JOptionPane;
+import negocio.Cliente;
+import negocio.Directorio;
 
 public class tp6 {
 

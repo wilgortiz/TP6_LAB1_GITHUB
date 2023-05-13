@@ -5,7 +5,9 @@
  */
 package tp6.vistas;
 
-import tp6.negocio.Directorio;
+import negocio.Directorio;
+
+
 /**
  *
  * @author Usuario

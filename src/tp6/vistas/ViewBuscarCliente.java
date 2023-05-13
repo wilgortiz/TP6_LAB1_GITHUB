@@ -6,7 +6,8 @@
 package tp6.vistas;
 
 import javax.swing.JOptionPane;
-import tp6.negocio.Cliente;
+import negocio.Cliente;
+
 
 /**
  *

@@ -5,7 +5,9 @@
  */
 package tp6.vistas;
 
-import tp6.negocio.Cliente;
+import negocio.Cliente;
+
+
 
 /**
  *
